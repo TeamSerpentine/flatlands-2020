@@ -1,4 +1,8 @@
+<img src="https://serpentine.ai/wp-content/uploads/2019/02/Final-design-serpentine.png" width="400px">
+
 # The Team: Serpentrain
+
+<img src="https://serpentine.ai/wp-content/uploads/2021/04/SerpenTrain-textLogo.png" width="400px">
 
 This is the finalized repo from Serpentrain, the 2020 [SerpentineAI](serpertine.ai) team that competed in the
 [2020 flatland challenge](https://flatland.aicrowd.com/). The technical report of this and other competitions joined by
